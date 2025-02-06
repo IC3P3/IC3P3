@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**IC3P3/IC3P3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+I'm a passionate software developer from Germany who loves
+experimenting with a wide range of technologies. While I'm still
+exploring different areas of software development without a fixed
+specialization, I get a real kick out of tinkering in my Home Lab.
+There's something uniquely satisfying about taking services from
+big companies and adapting them to work locally—especially
+setting up smart home integrations with Home Assistant that
+centralize what would normally be spread across multiple
+cloud-dependent apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of coding and configuring my setup, I like to relax by
+playing video games and singing in a choir. These hobbies provide
+a comfortable balance to my tech-focused routine.
+
+## 🌐 Socials
+
+[![LinkedIn](assets/linked-in.svg)](https://linkedin.com/in/niklas-eifler-3b4585329)
+[![Bluesky](https://cdn.simpleicons.org/bluesky/0285FF)](https://bsky.app)
+[![Medium](https://cdn.simpleicons.org/medium/000000)](https://medium.com)
+[![dev.to](https://cdn.simpleicons.org/devdotto/0A0A0A)](https://dev.to)
+[![RSS Feed](https://cdn.simpleicons.org/rss/FFA500)](fill-later)
+[![LeetCode](https://cdn.simpleicons.org/leetcode/FFA116)](https://leetcode.com)
+[![E-Mail](https://cdn.simpleicons.org/protonmail/6D4AFF)](mailto:github-profile@eiflerstrom.de)
+
+## 💻 Tech Stack:
+
+![C](https://cdn.simpleicons.org/c/A8B9CC)
+![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E)
+![TypeScript](https://cdn.simpleicons.org/typescript/3178C6)
+![SvelteKit](https://cdn.simpleicons.org/svelte/FF3E00)
+![Rust](https://cdn.simpleicons.org/rust/000000)
+![NodeJS](https://cdn.simpleicons.org/nodedotjs/5FA04E)
+![Bash Script](https://cdn.simpleicons.org/gnubash/4EAA25)
+![Markdown](https://cdn.simpleicons.org/markdown/000000)
+![SQLite](https://cdn.simpleicons.org/sqlite/003B57)
+![HTML5](https://cdn.simpleicons.org/html5/E34F26)
+![Git](https://cdn.simpleicons.org/git/F05032)
+![Electron.js](https://cdn.simpleicons.org/electron/47848F)
+![Express.js](https://cdn.simpleicons.org/express/000000)
+![PNPM](https://cdn.simpleicons.org/pnpm/F69220)
+![NPM](https://cdn.simpleicons.org/npm/CB3837)
+![TailwindCSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IC3P3&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IC3P3&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
