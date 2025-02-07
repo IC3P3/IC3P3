@@ -20,7 +20,7 @@ a comfortable balance to my tech-focused routine.
 
 <a href="https://linkedin.com/in/niklas-eifler-3b4585329"><img src="assets/linked-in.svg" alt="LinkedIn" width="auto" height="25px" /></a>
 <a href="https://bsky.app"><img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="auto" height="25px" /></a>
-<a href="https://medium.com"><img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" width="auto" height="25px" /></a>
+<a href="https://medium.com"><img src="https://cdn.simpleicons.org/medium/333333" alt="Medium" width="auto" height="25px" /></a>
 <a href="https://dev.to"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="dev.to" width="auto" height="25px" /></a>
 <a href="fill-later"><img src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS Feed" width="auto" height="25px" /></a>
 <a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px" /></a>
@@ -31,7 +31,7 @@ a comfortable balance to my tech-focused routine.
 ### 👾 Programming & Scripting Languages
 
 <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/rust/333333" alt="Rust" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Script" width="auto" height="25px" />
@@ -40,7 +40,7 @@ a comfortable balance to my tech-focused routine.
 
 <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="Svelte/SvelteKit" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron.js" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/express/333333" alt="Express.js" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="auto" height="25px" />
 
 ### ⚙️ Tools & Platforms
@@ -57,7 +57,7 @@ a comfortable balance to my tech-focused routine.
 
 ### 📄 Markup Languages
 
-<img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/markdown/333333" alt="Markdown" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="auto" height="25px" />
 
 ## 📊 GitHub Stats
