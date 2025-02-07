@@ -24,10 +24,10 @@ a comfortable balance to my tech-focused routine.
 <a href="https://dev.to"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="dev.to" width="auto" height="25px" /></a>
 <a href="fill-later"><img src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS Feed" width="auto" height="25px" /></a>
 <a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px" /></a>
-:%s/!\[\(.*\)\]\s*(\s*\(.*\)\s*)/<img src="\2" alt="\1" width="auto" height="25px" \/>/g
 <a href="mailto:github-profile@eiflerstrom.de"><img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="E-Mail Address" width="auto" height="25px" /></a>
 
 ## 💻 Tech Stack
+
 <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="auto" height="25px" />
