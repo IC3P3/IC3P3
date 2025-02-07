@@ -26,7 +26,7 @@ a comfortable balance to my tech-focused routine.
 [![LeetCode](https://cdn.simpleicons.org/leetcode/FFA116)](https://leetcode.com)
 [![E-Mail](https://cdn.simpleicons.org/protonmail/6D4AFF)](mailto:github-profile@eiflerstrom.de)
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![C](https://cdn.simpleicons.org/c/A8B9CC)
 ![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E)
