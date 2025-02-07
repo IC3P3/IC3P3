@@ -24,26 +24,26 @@ a comfortable balance to my tech-focused routine.
 <a href="https://dev.to"><img src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="dev.to" width="auto" height="25px" /></a>
 <a href="fill-later"><img src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS Feed" width="auto" height="25px" /></a>
 <a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px" /></a>
+:%s/!\[\(.*\)\]\s*(\s*\(.*\)\s*)/<img src="\2" alt="\1" width="auto" height="25px" \/>/g
 <a href="mailto:github-profile@eiflerstrom.de"><img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="E-Mail Address" width="auto" height="25px" /></a>
 
 ## 💻 Tech Stack
-
-![C](https://cdn.simpleicons.org/c/A8B9CC)
-![JavaScript](https://cdn.simpleicons.org/javascript/F7DF1E)
-![TypeScript](https://cdn.simpleicons.org/typescript/3178C6)
-![SvelteKit](https://cdn.simpleicons.org/svelte/FF3E00)
-![Rust](https://cdn.simpleicons.org/rust/000000)
-![NodeJS](https://cdn.simpleicons.org/nodedotjs/5FA04E)
-![Bash Script](https://cdn.simpleicons.org/gnubash/4EAA25)
-![Markdown](https://cdn.simpleicons.org/markdown/000000)
-![SQLite](https://cdn.simpleicons.org/sqlite/003B57)
-![HTML5](https://cdn.simpleicons.org/html5/E34F26)
-![Git](https://cdn.simpleicons.org/git/F05032)
-![Electron.js](https://cdn.simpleicons.org/electron/47848F)
-![Express.js](https://cdn.simpleicons.org/express/000000)
-![PNPM](https://cdn.simpleicons.org/pnpm/F69220)
-![NPM](https://cdn.simpleicons.org/npm/CB3837)
-![TailwindCSS](https://cdn.simpleicons.org/tailwindcss/06B6D4)
+<img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="SvelteKit" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Script" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron.js" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/pnpm/F69220" alt="PNPM" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="auto" height="25px" />
 
 ## 📊 GitHub Stats
 
