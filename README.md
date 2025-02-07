@@ -18,13 +18,13 @@ a comfortable balance to my tech-focused routine.
 
 ## 🌐 Socials
 
-[![LinkedIn](assets/linked-in.svg)](https://linkedin.com/in/niklas-eifler-3b4585329)
-[![Bluesky](https://cdn.simpleicons.org/bluesky/0285FF)](https://bsky.app)
-[![Medium](https://cdn.simpleicons.org/medium/000000)](https://medium.com)
-[![dev.to](https://cdn.simpleicons.org/devdotto/0A0A0A)](https://dev.to)
-[![RSS Feed](https://cdn.simpleicons.org/rss/FFA500)](fill-later)
-[![LeetCode](https://cdn.simpleicons.org/leetcode/FFA116)](https://leetcode.com)
-[![E-Mail](https://cdn.simpleicons.org/protonmail/6D4AFF)](mailto:github-profile@eiflerstrom.de)
+<img src="assets/linked-in.svg" alt="LinkedIn" width="auto" height="25px"><a href="https://linkedin.com/in/niklas-eifler-3b4585329">LinkedIn</a></img>
+<img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="auto" height="25px"><a href="https://bsky.app">Bluesky</a></img>
+<img src="https://cdn.simpleicons.org/medium/000000" alt="Medium" width="auto" height="25px"><a href="https://medium.com">Medium</a></img>
+<img src="https://cdn.simpleicons.org/devdotto/0A0A0A" alt="dev.to" width="auto" height="25px"><a href="https://dev.to">dev.to</a></img>
+<img src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS Feed" width="auto" height="25px"><a href="fill-later">RSS</a></img>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px"><a href="https://leetcode.com">LeetCode</a></img>
+<img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="E-Mail Address" width="auto" height="25px"><a href="mailto:github-profile@eiflerstrom.de">E-Mail</a></img>
 
 ## 💻 Tech Stack
 
