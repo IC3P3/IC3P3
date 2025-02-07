@@ -28,22 +28,37 @@ a comfortable balance to my tech-focused routine.
 
 ## 💻 Tech Stack
 
+### 👾 Programming & Scripting Languages
+
 <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="SvelteKit" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/rust/000000" alt="Rust" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash Script" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="auto" height="25px" />
+
+### 📦 Libraries & Frameworks
+
+<img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="Svelte/SvelteKit" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron.js" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="auto" height="25px" />
+
+### ⚙️ Tools & Platforms
+
+<img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/pnpm/F69220" alt="PNPM" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" width="auto" height="25px" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="auto" height="25px" />
+
+### 🗄️ Databases
+
+<img src="https://cdn.simpleicons.org/mardiadb/003545" alt="MariaDB" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="auto" height="25px" />
+
+### 📄 Markup Languages
+
+<img src="https://cdn.simpleicons.org/markdown/000000" alt="Markdown" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="auto" height="25px" />
 
 ## 📊 GitHub Stats
 
