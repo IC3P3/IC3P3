@@ -52,7 +52,7 @@ a comfortable balance to my tech-focused routine.
 
 ### 🗄️ Databases
 
-<img src="https://cdn.simpleicons.org/mardiadb/003545" alt="MariaDB" width="auto" height="25px" />
+<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" width="auto" height="25px" />
 <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="auto" height="25px" />
 
 ### 📄 Markup Languages
