@@ -26,7 +26,7 @@ a comfortable balance to my tech-focused routine.
 <a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px" /></a>&nbsp;&nbsp;
 <a href="mailto:github-profile@eiflerstrom.de"><img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="E-Mail Address" width="auto" height="25px" /></a>
 
-## 💻 Tech Stack
+## 💻 Technologies
 
 ### 👾 Programming & Scripting Languages
 
