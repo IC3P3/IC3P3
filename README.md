@@ -18,12 +18,12 @@ a comfortable balance to my tech-focused routine.
 
 ## 🌐 Socials
 
-<a href="https://linkedin.com/in/niklas-eifler-3b4585329" style="padding-right: 15px"><img src="assets/linked-in.svg" alt="LinkedIn" width="auto" height="25px" /></a>
-<a href="https://bsky.app" style="padding-right: 15px"><img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="auto" height="25px" /></a>
-<a href="https://medium.com" style="padding-right: 15px"><img src="https://cdn.simpleicons.org/medium/333333" alt="Medium" width="auto" height="25px" /></a>
-<a href="https://dev.to" style="padding-right: 15px"><img src="https://cdn.simpleicons.org/devdotto/3D3D3D" alt="dev.to" width="auto" height="25px" /></a>
-<a href="fill-later" style="padding-right: 15px"><img src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS Feed" width="auto" height="25px" /></a>
-<a href="https://leetcode.com" style="padding-right: 15px"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px" /></a>
+<a href="https://linkedin.com/in/niklas-eifler-3b4585329"><img src="assets/linked-in.svg" alt="LinkedIn" width="auto" height="25px" /></a>&nbsp;&nbsp;
+<a href="https://bsky.app"><img src="https://cdn.simpleicons.org/bluesky/0285FF" alt="Bluesky" width="auto" height="25px" /></a>&nbsp;&nbsp;
+<a href="https://medium.com"><img src="https://cdn.simpleicons.org/medium/333333" alt="Medium" width="auto" height="25px" /></a>&nbsp;&nbsp;
+<a href="https://dev.to"><img src="https://cdn.simpleicons.org/devdotto/3D3D3D" alt="dev.to" width="auto" height="25px" /></a>&nbsp;&nbsp;
+<a href="fill-later"><img src="https://cdn.simpleicons.org/rss/FFA500" alt="RSS Feed" width="auto" height="25px" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="25px" /></a>&nbsp;&nbsp;
 <a href="mailto:github-profile@eiflerstrom.de"><img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="E-Mail Address" width="auto" height="25px" /></a>
 
 ## 💻 Tech Stack
