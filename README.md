@@ -54,6 +54,7 @@ a comfortable balance to my tech-focused routine.
     <img src="https://cdn.simpleicons.org/pnpm/F69220" alt="PNPM" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="auto" height="25px" />&nbsp;
+    <img src="https://cdn.simpleicons.org/nixos/5277C3" alt="Nix Flakes" width="auto" height="25px" />&nbsp;
 </span>
 
 ### 🗄️ Databases
