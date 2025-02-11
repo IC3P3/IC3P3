@@ -73,5 +73,5 @@ a comfortable balance to my tech-focused routine.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=IC3P3&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IC3P3&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IC3P3&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IC3P3&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
