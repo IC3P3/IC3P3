@@ -31,8 +31,8 @@ a comfortable balance to my tech-focused routine.
 ### 👾 Programming & Scripting Languages
 
 <span>
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="auto" height="25px" />&nbsp;
+    <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" width="auto" height="25px" />&nbsp;
 </span>
 
 ### 📦 Libraries & Frameworks
@@ -40,7 +40,6 @@ a comfortable balance to my tech-focused routine.
 <span>
     <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="Svelte/SvelteKit" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron.js" width="auto" height="25px" />&nbsp;
-    <img src="https://cdn.simpleicons.org/express/333333" alt="Express.js" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="auto" height="25px" />&nbsp;
 </span>
 
@@ -50,7 +49,6 @@ a comfortable balance to my tech-focused routine.
     <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/pnpm/F69220" alt="PNPM" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="auto" height="25px" />&nbsp;
-    <img src="https://cdn.simpleicons.org/nixos/5277C3" alt="Nix Flakes" width="auto" height="25px" />&nbsp;
 </span>
 
 ### 🗄️ Databases
