@@ -26,13 +26,14 @@ a comfortable balance to my tech-focused routine.
 <a href="https://leetcode.com"><img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="auto" height="40px" /></a>&nbsp;&nbsp;
 <a href="mailto:github-profile@eiflerstrom.de"><img src="https://cdn.simpleicons.org/protonmail/6D4AFF" alt="E-Mail Address" width="auto" height="40px" /></a>-->
 
-## 💻 Technologies
+## 💻 Technologies I have worked with
 
 ### 👾 Programming & Scripting Languages
 
 <span>
     <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" width="auto" height="25px" />&nbsp;
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="auto" height="25px" />&nbsp;
 </span>
 
 ### 📦 Libraries & Frameworks
@@ -48,7 +49,6 @@ a comfortable balance to my tech-focused routine.
 <span>
     <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="NodeJS" width="auto" height="25px" />&nbsp;
     <img src="https://cdn.simpleicons.org/pnpm/F69220" alt="PNPM" width="auto" height="25px" />&nbsp;
-    <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="auto" height="25px" />&nbsp;
 </span>
 
 ### 🗄️ Databases
